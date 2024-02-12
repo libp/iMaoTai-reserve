@@ -8,6 +8,3 @@
 /.idea/*
 /__pycache__/*
 **/*.pyc
-config.py
-README.md
-test/timeTest.py
